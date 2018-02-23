@@ -1,2 +1,2 @@
 # C-Projects
-A collection of C# projects made just purely for personal education and fun.
+A collection of personally made C# projects made just purely for personal knowledge and fun.
